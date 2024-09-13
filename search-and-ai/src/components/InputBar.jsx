@@ -1,5 +1,5 @@
 function InputBar() { 
-    <input/>
+    return <input/>
 }
 
 export default InputBar
