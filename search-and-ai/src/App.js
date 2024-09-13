@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {InputBar} from './components/InputBar.jsx'
+import { InputBar } from './components/InputBar.jsx'
 
 function App() {
   return (
