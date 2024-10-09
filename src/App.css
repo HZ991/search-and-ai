@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.Westpac-logo__img {
+  /* height: 40vmin; */
+  height: 30px;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.blockLink-container {
+  display: flex;
+}
+
+/* .fastTrack {
+  text-align: left;
+  margin-left: 16px;
+  color: black;
+} */
